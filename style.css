@@ -6,10 +6,6 @@
   padding: 0;
 }
 
-a {
-  -webkit-tap-highlight-color: transparent;
-}
-
 html {
   scroll-behavior: smooth;
   scrollbar-width: thin;
@@ -25,4 +21,3 @@ body {
   flex-wrap: wrap;
   place-content: center;
 }
-
